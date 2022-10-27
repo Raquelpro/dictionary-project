@@ -1,9 +1,9 @@
 .App-header {
-  margin: 50px 0;
+  margin: 50px;
 }
 
 .App-log {
-  max-width: 10px;
+  max-width: 200px;
   display: block;
   margin: 0 auto;
 }
