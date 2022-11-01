@@ -11,7 +11,7 @@ export default function App() {
       alt="logo" />
       </header>
       <main>
-        <Dictionary />
+        <Dictionary defaultKeyword="car"/>
       </main>
       <footer className="App-footer">
         <small>Coded by Raquel Provvidente</small>
