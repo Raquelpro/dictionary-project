@@ -14,7 +14,10 @@ export default function App() {
         <Dictionary defaultKeyword="car"/>
       </main>
       <footer className="App-footer">
-        <small>Coded by Raquel Provvidente</small>
+        <small>Coded by Raquel Provvidente and is {""}
+          <a href="https://github.com/Raquelpro/dictionary-project" target="_blank" 
+      rel="noreferrer">open-sourced on GitHub</a></small>
+
          </footer>
       </div>
     </div>
